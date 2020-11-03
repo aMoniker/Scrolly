@@ -1,2 +1,2 @@
-# Scrololo.spoon
+# Scrolly
 A scrolly spoon for Hammerspoon
